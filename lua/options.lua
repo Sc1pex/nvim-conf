@@ -26,3 +26,8 @@ vim.o.wrap = false
 vim.o.tabstop = 4
 vim.o.expandtab = true
 vim.o.relativenumber = true
+vim.o.shiftwidth = 4
+
+vim.opt.termguicolors = true
+
+vim.o.guifont = "JetBrainsMono Nerd Font Mono:h10"
